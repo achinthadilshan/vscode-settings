@@ -1,0 +1,41 @@
+{
+   "editor.fontSize": 18,
+   "files.autoSave": "onFocusChange",
+   "terminal.integrated.defaultProfile.windows": "Command Prompt",
+   "editor.formatOnSave": true,
+   "editor.formatOnPaste": true,
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   },
+   "emmet.triggerExpansionOnTab": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [80],
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": false,
+   },
+   "workbench.editor.untitled.hint": "hidden",
+   "prettier.tabWidth": 3,
+   "prettier.bracketSameLine": true,
+   "workbench.colorTheme": "Community Material Theme High Contrast",
+   "prettier.semi": false,
+   "prettier.singleQuote": true
+}
+// Prettier Configuration
+// {
+//   "semi": false,
+//   "jsxBracketSameLine": true,
+//   "overrides": [
+//     {
+//       "files": "*.js",
+//       "options": {
+//         "singleQuote": true
+//       },
+//     }
+//     ]
+// }
