@@ -39,3 +39,19 @@
 //     }
 //     ]
 // }
+
+
+Extensions
+
+Auto Rename Tag
+Autoprefixer
+Community Material Theme
+ES7+ React/Redux/React-Native snippets
+ESLint
+HTML CSS Support
+HTML to CSS autocompletion
+JavaScript (ES6) code snippets
+Live Server
+Path Intellisense
+Prettier - Code formatter
+Thunder Client
